@@ -1,4 +1,4 @@
-# Voice Assistant
+# Local Voice Assistant
 
 ### Setup
 
